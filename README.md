@@ -172,6 +172,11 @@ A simple RESTful API for managing blog posts. This API allows users to create, r
 - **Micheal Angelo**  
   - Authenticated routes and user management.
   - Blog creation and deletion logic.
+ 
+  - **Ngenzi Cian**
+  - commenting section
+  - documenting API
+  - Modulating Routes and middlewares
 
 
 
