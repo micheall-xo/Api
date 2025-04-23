@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "680777278424f8fa1fe8d320"
+  },
+  "username": "clack",
+  "email": "admin@example.com",
+  "password": "$2b$10$e.Abq1q6YIJbG92q1c6tjezD9dfOZqEJUTgj4hLvDIXNncuiKvoHG",
+  "role": "author",
+  "createdAt": {
+    "$date": "2025-04-22T11:02:00.003Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T11:02:00.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680827ed520113d13ca46f43"
+  },
+  "username": "Kyan",
+  "email": "ngenzi@gmail.com",
+  "password": "$2b$10$pCB6YMQDYO9pFfqu7H7PU.znl7Ypj.B1WTW5rmHUG5OtVR6ZE5Pgm",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-04-22T23:36:13.589Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T23:36:13.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6808293e520113d13ca46f4b"
+  },
+  "username": "Admin",
+  "email": "ngenzi2@gmail.com",
+  "password": "$2b$10$4UG1RQxxv2ptUdfx68ubn.UahSTqUiZ6ow9drasvOU77MtBL9wk22",
+  "role": "author",
+  "createdAt": {
+    "$date": "2025-04-22T23:41:50.637Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T23:41:50.637Z"
+  },
+  "__v": 0
+}]
